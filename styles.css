@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: Verdana;
+}
+
+.title {
+    background-color: orange;
+    font-weight: 800;
+    font-size: 32px;
+}
+
+.title.indian {
+    background-color: green;
+}
+
+.main {
+    background-color: lightblue;
+    font-size: 18px;
+}
+
+.mexican {
+    color: red;
+}
+
+.indian {
+    color: orange;
+}
+
+.italian {
+    color: green;
+}
+
+.ingredients,
+.method {
+    text-align: left;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
