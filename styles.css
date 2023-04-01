@@ -1,6 +1,6 @@
-body {
+* {
     text-align: center;
-    font-family: Verdana;
+    font-family: "Open Sans",Arial, Verdana, sans-serif;
 }
 
 .title {
@@ -28,6 +28,10 @@ body {
 
 .italian {
     color: green;
+}
+
+.british {
+    color: blue;
 }
 
 .ingredients,
